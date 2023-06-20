@@ -1,3 +1,2 @@
-from osHelper import get_name_and_age
-
-
+from .os import getImagesFromFolder
+from .env import env
