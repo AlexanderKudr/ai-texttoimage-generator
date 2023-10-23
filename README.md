@@ -1,4 +1,8 @@
-# Generate text caption from images
+# luminova-ai-model
+Part of the luminova project [link](https://github.com/AlexanderKudr/luminova)
+
+
+## Generate text caption from images
 >  Also you can upload images payload to CDN
 
 ---
